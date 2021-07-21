@@ -11,7 +11,6 @@ Bitcoin Talk Thread for piWallet: https://bitcointalk.org/index.php?topic=911212
 
 Please exercise EXTREME CAUTION when having a 3rd party install piWallet, please see https://fittechhosting.com/cryptocurrency for approved installation/piWallet hosting services. 
 
-I can be reached directly at jmartin@FitTechHosting.com
 
 Features:
 
@@ -47,9 +46,10 @@ Todo List:
 
 - Issue #36  Stop using md5
 
-- Change background from ugly yellow
 
  
 More Information:
 
-Created by Johnathan Martin of FitTechHosting.com
+Created Originally by Johnathan Martin of FitTechHosting.com
+UI Updates developed by CryptorClub
+Further Developement on this fork continued by the SafeMine Team
