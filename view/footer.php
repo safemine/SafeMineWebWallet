@@ -26,7 +26,7 @@
           <script>
             document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
           </script>, 
-          <a href="https://github.com/johnathanmartin/piWallet">Source code</a>
+          <a href="https://github.com/safemine/SafeMineWebWallet">Source code</a>
         </div>
       </div>
     </footer>
