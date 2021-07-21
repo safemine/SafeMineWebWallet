@@ -1,5 +1,3 @@
-![Screenshot](safeminewallet.png)
-
 SafeMine Web Wallet
 ===================
 
@@ -13,6 +11,7 @@ Bitcoin Talk Thread for piWallet: https://bitcointalk.org/index.php?topic=911212
 
 Please exercise EXTREME CAUTION when having a 3rd party install piWallet, please see https://fittechhosting.com/cryptocurrency for approved installation/piWallet hosting services. 
 
+![Screenshot](safeminewallet.png)
 
 Features:
 
