@@ -15,8 +15,8 @@
   <title>
     <?=$fullname?>Web Wallet
   </title>
-<meta property="og:site_name" content="GreenCoin GRN Web Wallet"/>
-<meta property="og:title" content="GreenCoin GRN Web Wallet"/>
+<meta property="og:site_name" content="SafeMine (SMX) Web Wallet"/>
+<meta property="og:title" content="SafeMine (SMX) Web Wallet"/>
 <meta property="og:url" content="https://wallet.greencoin.life/"/>
 <meta property="og:type" content="website"/>
 <meta property="og:image" content="https://preview.ibb.co/igPEry/Planet_1000px.png"/>
@@ -27,11 +27,11 @@
 <meta itemprop="thumbnailUrl" content="https://preview.ibb.co/igPEry/Planet_1000px.png"/>
 <link rel="image_src" href="https://preview.ibb.co/igPEry/Planet_1000px.png" />
 <meta itemprop="image" content="https://preview.ibb.co/igPEry/Planet_1000px.png"/>
-<meta name="twitter:title" content="GreenCoin GRN Exchange"/>
+<meta name="twitter:title" content="SafeMine (SMX) Exchange"/>
 <meta name="twitter:image" content="https://preview.ibb.co/igPEry/Planet_1000px.png"/>
 <meta name="twitter:url" content="https://twitter.com/GreenCoinGRN/"/>
 <meta name="twitter:card" content="summary"/>
-<meta name="description" content="GreenCoin GRN web wallet" />
+<meta name="description" content="SafeMine (SMX) web wallet" />
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
