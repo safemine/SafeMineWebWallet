@@ -1,3 +1,5 @@
+![Screenshot](safeminewallet.png)
+
 SafeMine Web Wallet
 ===================
 
