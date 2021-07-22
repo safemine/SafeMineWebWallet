@@ -13,7 +13,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
   <title>
-    <?=$fullname?>Web Wallet
+    <?=$fullname?> Web Wallet
   </title>
 <meta property="og:site_name" content="SafeMine (SMX) Web Wallet"/>
 <meta property="og:title" content="SafeMine (SMX) Web Wallet"/>
