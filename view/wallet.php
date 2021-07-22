@@ -4,7 +4,7 @@
       </div>
       <div class="container">
         <div class="photo-container">
-          <img src="../assets/img/planet_400px.png" alt="">
+          <img src="../assets/img/safemine400x400.png" alt="">
         </div>
         <h3 style="margin-top:10px;"><?php echo $lang['WALLET_HELLO']; ?>, <strong><?php echo $user_session; ?></strong>!</h3>
 <?php
